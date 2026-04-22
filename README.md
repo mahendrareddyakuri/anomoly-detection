@@ -76,10 +76,10 @@ The UI is inspired by high-tech fictional systems such as:
 
 ---
 
-## How to Run
 
 ### Step 1: Install dependencies
-```bash
 pip install -r requirements.txt
-<img width="1600" height="1513" alt="image" src="https://github.com/user-attachments/assets/b6b6d544-f64d-4f4f-934c-70e4c86de6fd" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/9ce877c8-5ff9-412d-8f6f-cfd839820783" />
+<img width="1600" height="1039" alt="WhatsApp Image 2026-04-22 at 12 09 34 AM" src="https://github.com/user-attachments/assets/c98be38b-84a5-4875-810d-2305aac665d1" />
+<img width="1600" height="1513" alt="WhatsApp Image 2026-04-22 at 12 09 19 AM" src="https://github.com/user-attachments/assets/c84113de-06fc-4dfd-9c1a-f953c20c90db" />
+
+
